@@ -1,6 +1,6 @@
 # Cryptocurrency-Price-Prediction-Sentiment-Analysis
 
-A sentiment analysis based approach on prediciting cryptocurrency. 
+A sentiment analysis based approach to prediciting cryptocurrency. 
 The program uses Natural Language Processing on top articles on the topic (bitcoin) from the past 9 months, and assigns a sentiment score to each date.
 Given the small size of the data, the program uses machine learning models where few features are important inorder (such as a Support Vector Machine, Multi-layer Perceptron, Bernoulli Naive Bayes and Deciscion Tree) to avoid overtraining.
 
